@@ -1,0 +1,29 @@
+body{ background-color: #D3FAEE;}
+
+.ponk {
+	background-color: #CAFEFB;
+	border: 5px solid #C671F9;
+	text-align: center;
+	border-radius: 10px;
+	margin: 10px;
+	padding: 15px;
+	width:100px;
+	height:30px;
+	font-weight: 800;
+	font-size:20px;
+}
+
+.ponk:hover{
+	border: 10px solid #C671F9;
+}
+
+.music {background-color: #E3D3FA;}
+.video {background-color: #F7D3FA;}
+.picture {background-color: #FAE3D3;}
+.message {background-color: #FAD3D6;}
+
+a{ color:#0BBC8C; font-size:20px;}
+
+.roll {transition:0.5s transform;}
+
+.roll:hover{ transform: rotate(25deg);}
